@@ -1,0 +1,4 @@
+target “AwesomeProject” do
+	pod 'Fabric'
+	pod 'TwitterKit'
+end
